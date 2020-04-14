@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CAMERAS",CAM 1
+http://192.168.1.50/cam1.m3u8
+
+#EXTINF:-1 group-title="CAMERAS",CAM 2
+http://192.168.1.50/cam2.m3u8
+
+#EXTINF:-1 group-title="CAMERAS",CAM 3
+http://192.168.1.50/cam3.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TV BRASIL
+http://150.162.188.10:8080/hls/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TV CULTURA
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",GLOBO
+http://109.236.83.148:8081/live/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/3eaO2OvYXa/VmREPL3hY9AhmkW5.png" group-title="CANAL ABERTO", SBT MT - BEM TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/44uGKRTU0x/96UUnFZAYBfXuppf.png" group-title="CANAL ABERTO", TV Vitoria RECORD ES HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/PqXSFJm4o8/mSOTTt1UlJH0x9Fl.PNG" group-title="CANAL ABERTO", TVE BAHIA - TV BRASIL
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/arirang-logo.png" group-title="KOREA", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
